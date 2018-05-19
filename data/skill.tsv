@@ -1,0 +1,424 @@
+Concatenated	Monster	Element	Nat Stars	Type	3* Code	3* % Proc	3* # Turns	3* Requires Crit	5* Code	5* % Proc	5* # Turns	5* Requires Crit	5* Active Heal?	5* Single-Target?	Stat Weighting
+Dark Anu	Anu	Dark	4	Defender	42 - Sap (2 types)	60%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	2
+Dark Artemis	Artemis	Dark	5	Defender	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	22 - Silence	80%	2	No	No	No	1
+Dark Arthur	Arthur	Dark	5	Tank	121 - Aggression (HP)	100%	1	No	43 - Sap (3 types)	100%	1	No	No	No	1
+Dark Balrona	Balrona	Dark	5	Tank	76 - Morale Boost (Ally SP by 20%)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Dark Banshee	Banshee	Dark	4	Tank	42 - Sap (2 types)	100%	1	No	23 - Sleep	100%	1	No	No	No	4
+Dark Birdie	Birdie	Dark	4	Tank	121 - Aggression (HP)	100%	1	No	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	No	No	1
+Dark Canna	Canna	Dark	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Dark Chloe	Chloe	Dark	4	Balanced	12 - Attack Down	70%	2	No	124 - Leverage (HP)	100%	1	No	No	No	6
+Dark Cocomaru	Cocomaru	Dark	4	Defender	12 - Attack Down	70%	2	No	27 - Blind	70%	2	No	No	No	4
+Dark Colte	Colte	Dark	3	Attacker	11 - Defense Down	70%	2	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	6
+Dark Cosmo	Cosmo	Dark	3	Tank	152 - Buff Breaker	100%	1	No	22 - Silence	60%	1	No	No	No	4
+Dark Cupid	Cupid	Dark	4	Tank	121 - Aggression (HP)	100%	1	No	132 - Shield (Based on HP)	100%	3	No	Yes	No	8
+Dark Cura	Cura	Dark	4	Balanced	71 - Morale Boost (Ally SP by 10%)	100%	1	No	81 - SP Siphon Buff (Recover SP Based on Damage Dealt)	100%	2	No	Yes	No	5
+Dark D'Artagnan	D'Artagnan	Dark	4	Defender	42 - Sap (2 types)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	Yes	2
+Dark Fennec	Fennec	Dark	4	Tank	91 - Battle Rush (Recover 20% HP and SP)	100%	1	Yes	22 - Silence	60%	2	No	No	No	4
+Dark Garuda	Garuda	Dark	5	Balanced	116 - Elemental Edge	100%	1	No	27 - Blind	100%	2	No	No	No	6
+Dark Gatito	Gatito	Dark	4	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	Yes	3
+Dark Gemini	Gemini	Dark	4	Balanced	95 - SP Siphon (20% SP Leech)	100%	1	Yes	23 - Sleep	100%	1	Yes	No	No	4
+Dark Grabag	Grabag	Dark	3	Tank	121 - Aggression (HP)	100%	1	No	131 - Shield (Based on Level)	100%	2	No	Yes	No	8
+Dark Hana	Hana	Dark	4	Recovery	141 - Soul Boon: Red	100%	1	No	131 - Shield (Based on Level)	100%	3	No	Yes	No	5
+Dark Hunter	Hunter	Dark	4	Defender	21 - Stun	70%	1	No	42 - Sap (2 types)	70%	2	No	No	Yes	4
+Dark Incubus	Incubus	Dark	4	Attacker	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	26 - Seal	80%	2	No	No	No	3
+Dark Indra	Indra	Dark	5	Attacker	124 - Leverage (HP)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	No	3
+Dark Jack-o-Little	Jack-o-Little	Dark	4	Tank	61 - Adrenaline (Ally HP by 5% of Own HP)	100%	1	No	42 - Sap (2 types)	50%	2	No	No	No	1
+Dark Jeanne	Jeanne	Dark	4	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	22 - Silence	80%	2	No	No	No	4
+Dark Jellai	Jellai	Dark	4	Balanced	61 - Adrenaline (Ally HP by 5% of Own HP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	1
+Dark Jinn	Jinn	Dark	4	Balanced	24 - Petrify	80%	1	No	22 - Silence	80%	1	No	No	No	4
+Dark Kiki	Kiki	Dark	4	Attacker	51 - Adrenaline (Own HP by 20%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Dark Kilobat	Kilobat	Dark	2	Attacker	115 - Elemental Predator (20% CR Bonus Attacking Specific Element)	100%	1	No	24 - Petrify	40%	1	No	No	No	6
+Dark Latt	Latt	Dark	4	Attacker	51 - Adrenaline (Own HP by 20%)	100%	1	No	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	3
+Dark Leo	Leo	Dark	4	Attacker	12 - Attack Down	100%	2	No	22 - Silence	60%	2	No	No	No	4
+Dark Loki	Loki	Dark	4	Tank	26 - Seal	80%	2	No	26 - Seal	80%	2	No	No	No	4
+Dark Lucy	Lucy	Dark	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	No	19 - Expose Weakness	80%	2	No	No	No	3
+Dark Mammont	Mammont	Dark	4	Attacker	51 - Adrenaline (Own HP by 20%)	100%	1	No	117 - Vengeance	100%	1	No	No	No	3
+Dark Mandragora	Mandragora	Dark	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Dark Mari	Mari	Dark	4	Attacker	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Dark Medusa	Medusa	Dark	4	Tank	27 - Blind	70%	2	No	12 - Attack Down	80%	2	No	No	No	4
+Dark Mera	Mera	Dark	4	Tank	16 - Recovery Down (SP)	80%	2	No	23 - Sleep	100%	1	No	No	No	4
+Dark Miho	Miho	Dark	4	Tank	121 - Aggression (HP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	1
+Dark Mini Seira	Mini Seira	Dark	4	Attacker	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	3
+Dark Mino	Mino	Dark	2	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	107 - Elemental Hunter (Crit Damage +100% When Attacking Specific Element)	100%	1	Yes	No	Yes	6
+Dark Misha	Misha	Dark	4	Defender	117 - Vengeance	100%	1	No	117 - Vengeance	100%	1	No	No	No	3
+Dark Mona	Mona	Dark	4	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	2
+Dark Monkiki	Monkiki	Dark	4	Defender	122 - Aggression (Defense)	100%	1	No	11 - Defense Down	100%	2	No	No	Yes	6
+Dark Nezha	Nezha	Dark	4	Attacker	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	11 - Defense Down	80%	2	No	No	No	1
+Dark Nifa	Nifa	Dark	4	Attacker	12 - Attack Down	70%	2	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	4
+Dark Nightmare	Nightmare	Dark	5	Tank	74 - Morale Boost (Own SP by 40%)	100%	1	No	26 - Seal	80%	3	No	No	No	4
+Dark Odin	Odin	Dark	5	Balanced	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	11 - Defense Down	80%	3	No	No	No	3
+Dark Onmyoji	Onmyoji	Dark	5	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	57 - HP Siphon (Greatly Restore Allies HP in Proportion to Damage Dealt)	100%	1	No	No	No	4
+Dark Otari	Otari	Dark	3	Defender	12 - Attack Down	80%	2	No	27 - Blind	100%	2	No	No	No	3
+Dark Penpen	Penpen	Dark	3	Attacker	74 - Morale Boost (Own SP by 40%)	100%	1	Yes	117 - Vengeance	100%	1	No	No	No	3
+Dark Persephone	Persephone	Dark	5	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	101 - Predator (Dmg +40%)	100%	1	No	No	No	1
+Dark Phibian	Phibian	Dark	4	Balanced	91 - Battle Rush (Recover 20% HP and SP)	100%	1	Yes	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	5
+Dark Pixie	Pixie	Dark	4	Recovery	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	83 - Resilience (Recover SP Based on Damage Received)	100%	3	No	Yes	No	4
+Dark Poseidon	Poseidon	Dark	5	Defender	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	12 - Attack Down	80%	3	No	No	No	4
+Dark Rabbitle	Rabbitle	Dark	4	Tank	42 - Sap (2 types)	60%	1	No	42 - Sap (2 types)	80%	2	No	No	Yes	2
+Dark Radis	Radis	Dark	4	Defender	21 - Stun	70%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	6
+Dark Rocky	Rocky	Dark	4	Attacker	25 - Shock	100%	1	Yes	36 - Fatigue (SP Recovery)	60%	3	No	No	No	6
+Dark Rudolph	Rudolph	Dark	3	Attacker	12 - Attack Down	100%	3	Yes	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	3
+Dark Sanzang	Sanzang	Dark	5	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	2
+Dark Seastar	Seastar	Dark	4	Defender	122 - Aggression (Defense)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	6
+Dark Seedler	Seedler	Dark	4	Attacker	116 - Elemental Edge	100%	1	Yes	11 - Defense Down	100%	2	Yes	No	No	3
+Dark Shinobi	Shinobi	Dark	5	Attacker	94 - SP Siphon (30% SP Leech)	100%	1	No	105 - Hunter (Crit Dmg +40%)	100%	1	Yes	No	Yes	5
+Dark Shiva	Shiva	Dark	5	Defender	26 - Seal	80%	2	No	21 - Stun	100%	1	No	No	No	3
+Dark Siegfried	Siegfried	Dark	5	Defender	122 - Aggression (Defense)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	4
+Dark Siren	Siren	Dark	4	Recovery	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	37 - Dominance Buff (Reduce Enemy SP Proportional to Damage Dealt)	100%	2	No	Yes	No	2
+Dark Snowee	Snowee	Dark	4	Balanced	12 - Attack Down	70%	1	No	21 - Stun	70%	1	No	No	No	4
+Dark Sparkitt	Sparkitt	Dark	4	Tank	71 - Morale Boost (Ally SP by 10%)	100%	1	No	21 - Stun	70%	1	No	No	No	4
+Dark Succubus	Succubus	Dark	4	Defender	23 - Sleep	80%	2	No	23 - Sleep	80%	1	No	No	No	4
+Dark Sun Wukong	Sun Wukong	Dark	5	Balanced	26 - Seal	100%	3	No	21 - Stun	80%	1	No	No	No	4
+Dark Sura	Sura	Dark	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	Yes	3
+Dark Tanya	Tanya	Dark	4	Defender	34 - Taunt	80%	2	No	22 - Silence	100%	1	No	No	No	4
+Dark Thor	Thor	Dark	4	Attacker	11 - Defense Down	100%	2	Yes	124 - Leverage (HP)	100%	1	Yes	No	No	3
+Dark Tigar	Tigar	Dark	4	Tank	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	12 - Attack Down	80%	2	No	No	No	4
+Dark Toadora	Toadora	Dark	4	Defender	12 - Attack Down	60%	2	No	42 - Sap (2 types)	70%	2	No	No	No	4
+Dark Truffel	Truffel	Dark	3	Defender	12 - Attack Down	60%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Dark Valkyrie	Valkyrie	Dark	5	Tank	21 - Stun	100%	1	No	22 - Silence	80%	2	No	No	No	4
+Dark Vampire	Vampire	Dark	4	Defender	43 - Sap (3 types)	80%	1	No	12 - Attack Down	70%	2	No	No	No	4
+Dark Venus	Venus	Dark	4	Defender	12 - Attack Down	80%	2	No	14 - Attack Up	100%	3	No	Yes	No	5
+Dark Verde	Verde	Dark	4	Attacker	43 - Sap (3 types)	80%	1	No	26 - Seal	80%	2	No	No	No	6
+Dark Victoria	Victoria	Dark	4	Balanced	21 - Stun	100%	1	Yes	11 - Defense Down	60%	3	No	No	No	6
+Dark Wendigo	Wendigo	Dark	4	Balanced	117 - Vengeance	100%	1	No	50 - Adrenaline (Own HP by 10%)	100%	1	No	No	No	6
+Dark Wildfang	Wildfang	Dark	4	Attacker	103 - Crit Rate +30%	100%	1	No	103 - Crit Rate +30%	100%	1	No	No	No	3
+Dark Woolf	Woolf	Dark	3	Tank	121 - Aggression (HP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	1
+Dark Yaksha	Yaksha	Dark	4	Balanced	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	22 - Silence	80%	2	No	No	No	4
+Dark Yeti	Yeti	Dark	4	Balanced	21 - Stun	80%	1	No	26 - Seal	70%	2	No	No	No	4
+Dark Yuki	Yuki	Dark	4	Tank	94 - SP Siphon (30% SP Leech)	80%	2	No	42 - Sap (2 types)	80%	1	No	No	No	4
+Fire Anu	Anu	Fire	4	Tank	21 - Stun	60%	1	No	41 - Sap (1 type)	60%	2	No	No	No	4
+Fire Artemis	Artemis	Fire	5	Tank	21 - Stun	80%	2	No	21 - Stun	80%	1	No	No	No	4
+Fire Arthur	Arthur	Fire	5	Attacker	21 - Stun	100%	1	No	11 - Defense Down	60%	3	No	No	No	4
+Fire Balrona	Balrona	Fire	5	Balanced	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	3
+Fire Banshee	Banshee	Fire	4	Balanced	15 - Recovery Down (HP)	60%	1	No	31 - Thirst (10%)	60%	2	No	No	No	4
+Fire Beth	Beth	Fire	3	Balanced	112 - Elemental Predator (30% Attack Bonus Attacking Specific Element)	100%	1	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	3
+Fire Birdie	Birdie	Fire	3	Defender	34 - Taunt	80%	1	No	41 - Sap (1 type)	60%	2	No	No	No	4
+Fire Boltwing	Boltwing	Fire	4	Attacker	11 - Defense Down	60%	2	No	12 - Attack Down	60%	2	No	No	No	6
+Fire Candling	Candling	Fire	3	Attacker	11 - Defense Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	6
+Fire Canna	Canna	Fire	4	Balanced	24 - Petrify	70%	2	No	32 - Thirst (20%)	80%	2	No	No	No	4
+Fire Chloe	Chloe	Fire	4	Tank	54 - Adrenaline (Own HP by 50%)	50%	1	No	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	No	No	4
+Fire Cocomaru	Cocomaru	Fire	3	Defender	12 - Attack Down	60%	1	No	23 - Sleep	40%	1	No	No	No	4
+Fire Cotteen	Cotteen	Fire	2	Recovery	41 - Sap (1 type)	60%	1	No	14 - Attack Up	100%	3	No	Yes	No	5
+Fire Crowhook	Crowhook	Fire	3	Balanced	114 - Elemental Predator (50% Crit Dmg Bonus Attacking Specific Element)	100%	1	Yes	42 - Sap (2 types)	80%	1	No	No	No	6
+Fire Cupid	Cupid	Fire	4	Recovery	12 - Attack Down	60%	1	No	14 - Attack Up	100%	3	No	Yes	No	5
+Fire Cura	Cura	Fire	4	Recovery	71 - Morale Boost (Ally SP by 10%)	100%	1	Yes	131 - Shield (Based on Level)	100%	3	No	Yes	No	5
+Fire D'Artagnan	D'Artagnan	Fire	4	Attacker	11 - Defense Down	80%	2	No	32 - Thirst (20%)	100%	2	No	No	Yes	4
+Fire Fennec	Fennec	Fire	3	Attacker	108 - Elemental Hunter (Crit Damage +50% When Attacking Specific Element)	100%	1	Yes	12 - Attack Down	80%	2	Yes	No	No	6
+Fire Gargor	Gargor	Fire	2	Balanced	24 - Petrify	80%	1	No	52 - Adrenaline (Own HP by 30%)	100%	1	No	No	No	4
+Fire Garuda	Garuda	Fire	5	Defender	26 - Seal	100%	2	No	21 - Stun	70%	1	No	No	No	4
+Fire Gatito	Gatito	Fire	3	Balanced	15 - Recovery Down (HP)	100%	2	No	24 - Petrify	100%	1	No	No	Yes	4
+Fire Gemini	Gemini	Fire	3	Defender	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	58 - HP Siphon (Restore Allies HP in Proportion to Damage Dealt)	100%	1	No	No	No	3
+Fire Grabag	Grabag	Fire	3	Balanced	72 - Morale Boost (Own SP by 20%)	100%	1	No	92 - Vigor (Restore Ally HP)	100%	2	No	Yes	No	5
+Fire Hana	Hana	Fire	4	Recovery	23 - Sleep	40%	1	No	81 - SP Siphon Buff (Recover SP Based on Damage Dealt)	100%	3	No	Yes	No	5
+Fire Hunter	Hunter	Fire	3	Attacker	74 - Morale Boost (Own SP by 40%)	100%	1	Yes	21 - Stun	80%	2	Yes	No	Yes	6
+Fire Incubus	Incubus	Fire	4	Balanced	71 - Morale Boost (Ally SP by 10%)	100%	1	Yes	124 - Leverage (HP)	100%	1	Yes	No	No	3
+Fire Indra	Indra	Fire	5	Attacker	116 - Elemental Edge	100%	1	No	26 - Seal	70%	2	No	No	No	6
+Fire Jeanne	Jeanne	Fire	4	Tank	31 - Thirst (10%)	60%	1	No	141 - Soul Boon: Red	100%	1	No	No	No	4
+Fire Jellai	Jellai	Fire	3	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	24 - Petrify	40%	1	No	No	No	6
+Fire Jinn	Jinn	Fire	4	Attacker	82 - SP Siphon Buff (Greatly Recover SP Based on Damage Dealt)	100%	1	No	101 - Predator (Dmg +40%)	100%	1	No	No	No	3
+Fire Kiki	Kiki	Fire	3	Balanced	150 - Shield Breaker	100%	1	No	11 - Defense Down	70%	2	No	No	No	4
+Fire Latt	Latt	Fire	3	Attacker	21 - Stun	40%	2	No	15 - Recovery Down (HP)	60%	2	No	No	No	6
+Fire Leo	Leo	Fire	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Fire Loki	Loki	Fire	4	Balanced	41 - Sap (1 type)	80%	2	No	42 - Sap (2 types)	60%	2	No	No	No	3
+Fire Lucy	Lucy	Fire	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	26 - Seal	80%	2	No	No	No	6
+Fire Mammont	Mammont	Fire	4	Tank	34 - Taunt	80%	2	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Fire Mandragora	Mandragora	Fire	3	Balanced	23 - Sleep	100%	1	Yes	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	6
+Fire Medusa	Medusa	Fire	3	Tank	24 - Petrify	60%	1	No	24 - Petrify	60%	1	No	No	No	4
+Fire Mera	Mera	Fire	4	Attacker	103 - Crit Rate +30%	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Fire Miho	Miho	Fire	3	Tank	12 - Attack Down	60%	2	No	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	No	No	6
+Fire Minicat	Minicat	Fire	3	Tank	42 - Sap (2 types)	60%	1	No	151 - Purification	100%	1	No	Yes	No	5
+Fire Mino	Mino	Fire	2	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	107 - Elemental Hunter (Crit Damage +100% When Attacking Specific Element)	100%	1	Yes	No	Yes	3
+Fire Misha	Misha	Fire	3	Tank	52 - Adrenaline (Own HP by 30%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Fire Mona	Mona	Fire	3	Tank	15 - Recovery Down (HP)	60%	1	No	36 - Fatigue (SP Recovery)	60%	2	No	No	No	4
+Fire Monkiki	Monkiki	Fire	3	Attacker	23 - Sleep	100%	1	Yes	23 - Sleep	100%	2	Yes	No	No	4
+Fire Mushi	Mushi	Fire	2	Defender	42 - Sap (2 types)	60%	1	No	34 - Taunt	100%	1	No	No	Yes	4
+Fire Nezha	Nezha	Fire	4	Tank	12 - Attack Down	70%	2	No	11 - Defense Down	70%	3	No	No	No	4
+Fire Nightmare	Nightmare	Fire	5	Attacker	11 - Defense Down	80%	2	No	33 - Thirst (30%)	80%	2	No	No	No	4
+Fire Odin	Odin	Fire	5	Tank	11 - Defense Down	80%	2	No	12 - Attack Down	80%	2	No	No	No	4
+Fire Onmyoji	Onmyoji	Fire	5	Tank	94 - SP Siphon (30% SP Leech)	100%	1	No	11 - Defense Down	80%	2	No	No	No	4
+Fire Otari	Otari	Fire	2	Tank	11 - Defense Down	80%	2	No	27 - Blind	60%	2	No	No	No	4
+Fire Pebbol	Pebbol	Fire	4	Defender	21 - Stun	60%	1	No	34 - Taunt	80%	1	No	No	No	4
+Fire Penpen	Penpen	Fire	2	Defender	77 - Morale Boost (Own SP by 100%)	100%	1	Yes	12 - Attack Down	100%	2	Yes	No	No	4
+Fire Persephone	Persephone	Fire	5	Balanced	42 - Sap (2 types)	60%	2	No	42 - Sap (2 types)	100%	2	No	No	No	3
+Fire Phibian	Phibian	Fire	3	Attacker	11 - Defense Down	60%	2	No	27 - Blind	80%	2	No	No	No	4
+Fire Pixie	Pixie	Fire	4	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	13 - Defense Up	100%	2	No	Yes	No	5
+Fire Poseidon	Poseidon	Fire	5	Tank	12 - Attack Down	80%	2	No	42 - Sap (2 types)	80%	2	No	No	No	4
+Fire Radis	Radis	Fire	3	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Fire Sanzang	Sanzang	Fire	5	Defender	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	26 - Seal	60%	2	No	No	No	1
+Fire Seastar	Seastar	Fire	3	Attacker	36 - Fatigue (SP Recovery)	60%	1	No	21 - Stun	80%	1	No	No	No	6
+Fire Seedler	Seedler	Fire	3	Defender	26 - Seal	70%	2	No	41 - Sap (1 type)	70%	2	No	No	No	4
+Fire Shellie	Shellie	Fire	3	Balanced	34 - Taunt	100%	2	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	5
+Fire Shinobi	Shinobi	Fire	5	Balanced	124 - Leverage (HP)	100%	1	No	12 - Attack Down	80%	2	No	No	Yes	6
+Fire Shiva	Shiva	Fire	5	Defender	21 - Stun	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	3
+Fire Siegfried	Siegfried	Fire	5	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	1
+Fire Siren	Siren	Fire	3	Recovery	41 - Sap (1 type)	30%	2	No	83 - Resilience (Recover SP Based on Damage Received)	100%	2	No	Yes	No	3
+Fire Sparkitt	Sparkitt	Fire	4	Tank	21 - Stun	100%	2	Yes	27 - Blind	70%	2	No	No	No	4
+Fire Squirrus	Squirrus	Fire	2	Balanced	12 - Attack Down	60%	1	No	12 - Attack Down	40%	2	No	No	No	4
+Fire Succubus	Succubus	Fire	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	Yes	11 - Defense Down	100%	2	Yes	No	No	6
+Fire Sun Wukong	Sun Wukong	Fire	5	Attacker	101 - Predator (Dmg +40%)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	No	3
+Fire Sura	Sura	Fire	4	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	64 - Adrenaline (Ally HP by 20% of Ally's HP)	100%	1	No	No	Yes	6
+Fire Tanya	Tanya	Fire	3	Attacker	119 - Elemental Predator (50% Attack Bonus Attacking Specific Element)	100%	1	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	No	3
+Fire Thor	Thor	Fire	4	Defender	11 - Defense Down	70%	2	No	11 - Defense Down	50%	2	No	No	No	4
+Fire Tigar	Tigar	Fire	4	Balanced	11 - Defense Down	60%	3	No	41 - Sap (1 type)	60%	2	No	No	No	4
+Fire Truffel	Truffel	Fire	3	Tank	52 - Adrenaline (Own HP by 30%)	100%	1	No	24 - Petrify	60%	1	No	No	No	4
+Fire Valkyrie	Valkyrie	Fire	5	Balanced	82 - SP Siphon Buff (Greatly Recover SP Based on Damage Dealt)	100%	1	No	21 - Stun	80%	1	No	No	No	3
+Fire Vampire	Vampire	Fire	4	Attacker	54 - Adrenaline (Own HP by 50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Fire Verde	Verde	Fire	4	Balanced	27 - Blind	70%	2	No	124 - Leverage (HP)	100%	1	No	No	No	3
+Fire Victoria	Victoria	Fire	4	Defender	34 - Taunt	100%	1	Yes	24 - Petrify	60%	1	No	No	No	4
+Fire Wendigo	Wendigo	Fire	3	Attacker	100 - Predator (Dmg +30%)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Fire Wildfang	Wildfang	Fire	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Fire Yaksha	Yaksha	Fire	4	Defender	12 - Attack Down	80%	2	No	27 - Blind	50%	1	No	No	No	4
+Fire Yeti	Yeti	Fire	3	Attacker	105 - Hunter (Crit Dmg +40%)	100%	1	Yes	27 - Blind	60%	2	No	No	No	6
+Fire Yuki	Yuki	Fire	4	Attacker	11 - Defense Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	6
+Light Anu	Anu	Light	4	Tank	11 - Defense Down	100%	2	No	33 - Thirst (30%)	60%	2	No	No	No	4
+Light Artemis	Artemis	Light	5	Attacker	116 - Elemental Edge	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	3
+Light Arthur	Arthur	Light	5	Attacker	25 - Shock	100%	1	No	32 - Thirst (20%)	80%	2	No	No	No	6
+Light Balrona	Balrona	Light	5	Balanced	25 - Shock	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	3
+Light Banshee	Banshee	Light	4	Balanced	25 - Shock	80%	1	No	42 - Sap (2 types)	100%	2	No	No	No	4
+Light Birdie	Birdie	Light	4	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Light Bon	Bon	Light	3	Attacker	11 - Defense Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Light Canna	Canna	Light	4	Tank	26 - Seal	80%	2	No	25 - Shock	60%	2	No	No	No	4
+Light Chloe	Chloe	Light	4	Defender	77 - Morale Boost (Own SP by 100%)	30%	1	No	25 - Shock	70%	1	No	No	No	4
+Light Cocomaru	Cocomaru	Light	4	Tank	121 - Aggression (HP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	1
+Light Colte	Colte	Light	3	Balanced	12 - Attack Down	70%	2	No	25 - Shock	80%	2	No	No	Yes	4
+Light Cosmo	Cosmo	Light	3	Balanced	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	Yes	42 - Sap (2 types)	60%	1	No	No	No	4
+Light Cupid	Cupid	Light	4	Recovery	123 - Aggression (Recovery)	100%	1	No	93 - Zeal (Restore Ally SP)	100%	3	No	Yes	No	7
+Light Cura	Cura	Light	4	Recovery	25 - Shock	60%	2	No	37 - Dominance Buff (Reduce Enemy SP Proportional to Damage Dealt)	100%	2	No	Yes	No	5
+Light D'Artagnan	D'Artagnan	Light	4	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	No	101 - Predator (Dmg +40%)	100%	1	No	No	Yes	3
+Light Fennec	Fennec	Light	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	11 - Defense Down	100%	2	Yes	No	No	6
+Light Garuda	Garuda	Light	5	Attacker	25 - Shock	80%	2	No	101 - Predator (Dmg +40%)	100%	1	No	No	No	3
+Light Gatito	Gatito	Light	4	Tank	41 - Sap (1 type)	100%	2	No	121 - Aggression (HP)	100%	1	No	No	Yes	1
+Light Gemini	Gemini	Light	4	Tank	61 - Adrenaline (Ally HP by 5% of Own HP)	100%	1	No	12 - Attack Down	60%	2	No	No	No	1
+Light Grabag	Grabag	Light	3	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	14 - Attack Up	100%	2	No	Yes	No	5
+Light Hana	Hana	Light	4	Tank	121 - Aggression (HP)	100%	1	No	132 - Shield (Based on HP)	100%	3	No	Yes	No	8
+Light Hunter	Hunter	Light	4	Attacker	25 - Shock	50%	2	No	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	No	Yes	6
+Light Incubus	Incubus	Light	4	Attacker	58 - HP Siphon (Restore Allies HP in Proportion to Damage Dealt)	100%	1	No	25 - Shock	80%	1	No	No	No	6
+Light Indra	Indra	Light	5	Attacker	116 - Elemental Edge	100%	1	No	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Light Jack-o-Little	Jack-o-Little	Light	4	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Light Jeanne	Jeanne	Light	4	Tank	121 - Aggression (HP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	1
+Light Jellai	Jellai	Light	4	Attacker	26 - Seal	100%	2	Yes	11 - Defense Down	100%	2	Yes	No	No	6
+Light Jinn	Jinn	Light	4	Defender	50 - Adrenaline (Own HP by 10%)	100%	1	No	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Light Kiki	Kiki	Light	4	Defender	19 - Expose Weakness	70%	2	No	25 - Shock	70%	1	No	No	No	4
+Light Kilobat	Kilobat	Light	2	Defender	12 - Attack Down	100%	1	No	11 - Defense Down	60%	2	No	No	No	4
+Light Latt	Latt	Light	4	Balanced	25 - Shock	60%	1	No	11 - Defense Down	80%	2	No	No	No	4
+Light Leo	Leo	Light	4	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	No	21 - Stun	50%	2	No	No	No	4
+Light Loki	Loki	Light	4	Balanced	12 - Attack Down	60%	3	No	11 - Defense Down	70%	2	No	No	No	4
+Light Lucy	Lucy	Light	4	Tank	25 - Shock	70%	1	No	25 - Shock	70%	1	No	No	No	4
+Light Mammont	Mammont	Light	4	Balanced	12 - Attack Down	80%	2	No	27 - Blind	80%	2	No	No	No	4
+Light Mandragora	Mandragora	Light	4	Defender	34 - Taunt	60%	1	No	41 - Sap (1 type)	60%	3	No	No	No	4
+Light Mari	Mari	Light	4	Defender	122 - Aggression (Defense)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	2
+Light Medusa	Medusa	Light	4	Attacker	21 - Stun	100%	1	Yes	116 - Elemental Edge	100%	1	Yes	No	No	6
+Light Mera	Mera	Light	4	Defender	122 - Aggression (Defense)	100%	1	No	26 - Seal	60%	2	No	No	No	2
+Light Miho	Miho	Light	4	Defender	34 - Taunt	60%	1	No	12 - Attack Down	60%	3	No	No	No	4
+Light Mini Seira	Mini Seira	Light	4	Attacker	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	3
+Light Mino	Mino	Light	2	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	107 - Elemental Hunter (Crit Damage +100% When Attacking Specific Element)	100%	1	Yes	No	Yes	4
+Light Misha	Misha	Light	4	Tank	91 - Battle Rush (Recover 20% HP and SP)	100%	1	Yes	25 - Shock	70%	1	Yes	No	No	2
+Light Mona	Mona	Light	4	Defender	59 - Adrenaline (Own HP by 25%)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	6
+Light Monkiki	Monkiki	Light	4	Balanced	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	27 - Blind	100%	3	Yes	No	Yes	4
+Light Nezha	Nezha	Light	4	Tank	27 - Blind	80%	3	No	42 - Sap (2 types)	80%	2	No	No	No	3
+Light Nifa	Nifa	Light	4	Tank	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	2
+Light Nightmare	Nightmare	Light	5	Defender	122 - Aggression (Defense)	100%	1	No	43 - Sap (3 types)	80%	2	No	No	No	1
+Light Odin	Odin	Light	5	Tank	121 - Aggression (HP)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	4
+Light Onmyoji	Onmyoji	Light	5	Defender	94 - SP Siphon (30% SP Leech)	100%	1	No	25 - Shock	70%	2	No	No	No	3
+Light Otari	Otari	Light	3	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	4
+Light Penpen	Penpen	Light	3	Defender	34 - Taunt	80%	2	No	52 - Adrenaline (Own HP by 30%)	100%	1	No	No	No	4
+Light Persephone	Persephone	Light	5	Defender	153 - Morale Boost (Ally SP by 20%)	100%	1	No	25 - Shock	60%	2	No	No	No	4
+Light Phibian	Phibian	Light	4	Defender	26 - Seal	70%	2	No	21 - Stun	70%	1	No	No	No	5
+Light Pixie	Pixie	Light	4	Recovery	11 - Defense Down	60%	2	No	92 - Vigor (Restore Ally HP)	100%	2	No	Yes	No	3
+Light Poseidon	Poseidon	Light	5	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	No	116 - Elemental Edge	100%	1	No	No	No	6
+Light Rabbitle	Rabbitle	Light	4	Attacker	73 - Morale Boost (Own SP by 30%)	100%	1	No	117 - Vengeance	100%	1	No	No	Yes	6
+Light Radis	Radis	Light	4	Attacker	41 - Sap (1 type)	70%	2	No	42 - Sap (2 types)	60%	2	No	No	No	4
+Light Rocky	Rocky	Light	4	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	25 - Shock	50%	2	No	No	No	4
+Light Rudolph	Rudolph	Light	4	Defender	94 - SP Siphon (30% SP Leech)	100%	1	Yes	21 - Stun	80%	1	No	No	No	4
+Light Sanzang	Sanzang	Light	5	Balanced	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	21 - Stun	70%	1	No	No	No	4
+Light Seastar	Seastar	Light	4	Tank	25 - Shock	100%	1	Yes	12 - Attack Down	100%	2	Yes	No	No	2
+Light Seedler	Seedler	Light	4	Defender	122 - Aggression (Defense)	100%	1	No	12 - Attack Down	80%	2	No	No	No	3
+Light Shinobi	Shinobi	Light	5	Balanced	101 - Predator (Dmg +40%)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	Yes	5
+Light Shiva	Shiva	Light	5	Tank	91 - Battle Rush (Recover 20% HP and SP)	100%	1	No	121 - Aggression (HP)	100%	1	No	No	No	3
+Light Siegfried	Siegfried	Light	5	Balanced	124 - Leverage (HP)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	No	1
+Light Siren	Siren	Light	4	Defender	72 - Morale Boost (Own SP by 20%)	100%	1	No	131 - Shield (Based on Level)	100%	2	No	Yes	No	3
+Light Snowee	Snowee	Light	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Light Sparkitt	Sparkitt	Light	4	Attacker	25 - Shock	100%	1	Yes	11 - Defense Down	70%	2	No	No	No	4
+Light Succubus	Succubus	Light	4	Tank	71 - Morale Boost (Ally SP by 10%)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Light Sun Wukong	Sun Wukong	Light	5	Tank	11 - Defense Down	80%	2	No	25 - Shock	80%	1	No	No	No	4
+Light Sura	Sura	Light	4	Balanced	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	64 - Adrenaline (Ally HP by 20% of Ally's HP)	100%	1	No	No	Yes	4
+Light Tanya	Tanya	Light	4	Attacker	118 - Merciless Strike	100%	1	No	118 - Merciless Strike	100%	1	No	No	No	3
+Light Thor	Thor	Light	4	Tank	25 - Shock	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Light Tigar	Tigar	Light	4	Attacker	23 - Sleep	100%	2	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	6
+Light Toadora	Toadora	Light	4	Balanced	73 - Morale Boost (Own SP by 30%)	100%	1	Yes	43 - Sap (3 types)	60%	1	No	No	No	6
+Light Valkyrie	Valkyrie	Light	5	Balanced	25 - Shock	100%	1	No	105 - Hunter (Crit Dmg +40%)	100%	1	Yes	No	No	3
+Light Vampire	Vampire	Light	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	11 - Defense Down	70%	2	No	No	No	6
+Light Venus	Venus	Light	4	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	132 - Shield (Based on HP)	100%	3	No	Yes	No	8
+Light Verde	Verde	Light	4	Tank	94 - SP Siphon (30% SP Leech)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Light Victoria	Victoria	Light	4	Defender	122 - Aggression (Defense)	100%	1	No	122 - Aggression (Defense)	100%	1	No	No	No	4
+Light Wendigo	Wendigo	Light	4	Attacker	124 - Leverage (HP)	100%	1	Yes	12 - Attack Down	60%	2	No	No	No	3
+Light Wildfang	Wildfang	Light	4	Balanced	11 - Defense Down	100%	2	No	25 - Shock	60%	1	No	No	No	4
+Light Woolf	Woolf	Light	3	Defender	152 - Buff Breaker	100%	1	No	25 - Shock	80%	1	No	No	No	4
+Light Yaksha	Yaksha	Light	4	Attacker	11 - Defense Down	70%	3	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	6
+Light Yeti	Yeti	Light	4	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	25 - Shock	70%	1	No	No	No	4
+Light Yuki	Yuki	Light	4	Attacker	25 - Shock	40%	1	No	25 - Shock	60%	2	No	No	No	6
+Water Anu	Anu	Water	4	Attacker	11 - Defense Down	60%	2	No	101 - Predator (Dmg +40%)	100%	1	No	No	No	6
+Water Artemis	Artemis	Water	5	Attacker	42 - Sap (2 types)	80%	2	No	42 - Sap (2 types)	80%	2	No	No	No	3
+Water Arthur	Arthur	Water	5	Balanced	75 - Morale Boost (Own SP by 50%)	100%	1	No	12 - Attack Down	60%	3	No	No	No	4
+Water Balrona	Balrona	Water	5	Attacker	124 - Leverage (HP)	100%	1	No	11 - Defense Down	80%	2	No	No	No	3
+Water Banshee	Banshee	Water	4	Tank	141 - Soul Boon: Red	100%	1	No	42 - Sap (2 types)	60%	1	No	No	No	4
+Water Beth	Beth	Water	3	Tank	112 - Elemental Predator (30% Attack Bonus Attacking Specific Element)	100%	1	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	3
+Water Birdie	Birdie	Water	3	Balanced	21 - Stun	80%	1	No	33 - Thirst (30%)	60%	1	No	No	No	4
+Water Boltwing	Boltwing	Water	4	Defender	24 - Petrify	60%	1	No	24 - Petrify	60%	1	No	No	No	4
+Water Bon	Bon	Water	3	Defender	21 - Stun	60%	1	No	41 - Sap (1 type)	100%	1	No	No	No	4
+Water Candling	Candling	Water	3	Attacker	115 - Elemental Predator (20% CR Bonus Attacking Specific Element)	100%	1	No	115 - Elemental Predator (20% CR Bonus Attacking Specific Element)	100%	1	No	No	No	3
+Water Canna	Canna	Water	4	Defender	11 - Defense Down	80%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Water Cocomaru	Cocomaru	Water	3	Attacker	15 - Recovery Down (HP)	60%	1	No	24 - Petrify	40%	1	No	No	No	4
+Water Cotteen	Cotteen	Water	2	Recovery	150 - Shield Breaker	100%	1	No	13 - Defense Up	100%	3	No	Yes	No	5
+Water Crowhook	Crowhook	Water	3	Attacker	115 - Elemental Predator (20% CR Bonus Attacking Specific Element)	100%	1	No	21 - Stun	60%	1	No	No	No	6
+Water Cupid	Cupid	Water	4	Recovery	31 - Thirst (10%)	60%	1	No	151 - Purification	100%	1	No	Yes	No	5
+Water Cura	Cura	Water	4	Tank	72 - Morale Boost (Own SP by 20%)	100%	1	No	14 - Attack Up	100%	3	No	Yes	No	5
+Water D'Artagnan	D'Artagnan	Water	4	Tank	12 - Attack Down	80%	2	No	36 - Fatigue (SP Recovery)	100%	3	No	No	Yes	4
+Water Fennec	Fennec	Water	3	Attacker	108 - Elemental Hunter (Crit Damage +50% When Attacking Specific Element)	100%	1	Yes	12 - Attack Down	80%	2	Yes	No	No	6
+Water Gargor	Gargor	Water	2	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	64 - Adrenaline (Ally HP by 20% of Ally's HP)	100%	1	No	No	No	4
+Water Garuda	Garuda	Water	5	Attacker	11 - Defense Down	80%	2	No	116 - Elemental Edge	100%	1	No	No	No	6
+Water Gatito	Gatito	Water	3	Defender	12 - Attack Down	100%	2	No	42 - Sap (2 types)	80%	2	No	No	Yes	4
+Water Grabag	Grabag	Water	3	Tank	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	Yes	93 - Zeal (Restore Ally SP)	100%	2	No	Yes	No	5
+Water Hana	Hana	Water	4	Recovery	41 - Sap (1 type)	60%	1	No	83 - Resilience (Recover SP Based on Damage Received)	100%	3	No	Yes	No	5
+Water Hermite	Hermite	Water	4	Defender	72 - Morale Boost (Own SP by 20%)	100%	1	No	34 - Taunt	80%	1	No	No	No	4
+Water Hunter	Hunter	Water	3	Balanced	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	No	Yes	3
+Water Incubus	Incubus	Water	4	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	34 - Taunt	80%	1	No	No	No	4
+Water Indra	Indra	Water	5	Balanced	12 - Attack Down	80%	3	No	124 - Leverage (HP)	100%	1	No	No	No	6
+Water Jeanne	Jeanne	Water	4	Defender	23 - Sleep	100%	1	Yes	21 - Stun	60%	1	No	No	No	4
+Water Jellai	Jellai	Water	3	Tank	152 - Buff Breaker	100%	1	No	61 - Adrenaline (Ally HP by 5% of Own HP)	100%	1	No	No	No	1
+Water Jinn	Jinn	Water	4	Defender	71 - Morale Boost (Ally SP by 10%)	100%	1	No	24 - Petrify	60%	1	No	No	No	4
+Water Kiki	Kiki	Water	3	Balanced	152 - Buff Breaker	100%	1	No	27 - Blind	70%	2	No	No	No	4
+Water Latt	Latt	Water	3	Tank	11 - Defense Down	60%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Water Leo	Leo	Water	4	Tank	34 - Taunt	80%	1	No	21 - Stun	60%	1	No	No	No	4
+Water Loki	Loki	Water	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	100 - Predator (Dmg +30%)	100%	1	Yes	No	No	3
+Water Lucy	Lucy	Water	4	Attacker	12 - Attack Down	70%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Water Mammont	Mammont	Water	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Water Mandragora	Mandragora	Water	3	Attacker	36 - Fatigue (SP Recovery)	60%	1	No	15 - Recovery Down (HP)	60%	2	No	No	No	4
+Water Mari	Mari	Water	4	Balanced	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	12 - Attack Down	70%	1	No	No	No	1
+Water Medusa	Medusa	Water	3	Balanced	23 - Sleep	80%	1	No	31 - Thirst (10%)	60%	1	No	No	No	4
+Water Mera	Mera	Water	4	Balanced	26 - Seal	60%	2	No	11 - Defense Down	70%	2	No	No	No	6
+Water Miho	Miho	Water	3	Balanced	41 - Sap (1 type)	100%	2	No	41 - Sap (1 type)	60%	2	No	No	No	3
+Water Minicat	Minicat	Water	3	Recovery	72 - Morale Boost (Own SP by 20%)	100%	1	No	133 - Shield (Based on Recovery)	100%	2	No	Yes	No	5
+Water Mino	Mino	Water	2	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	107 - Elemental Hunter (Crit Damage +100% When Attacking Specific Element)	100%	1	Yes	No	Yes	3
+Water Misha	Misha	Water	3	Balanced	42 - Sap (2 types)	50%	2	No	118 - Merciless Strike	100%	1	No	No	No	4
+Water Mona	Mona	Water	3	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	11 - Defense Down	50%	2	No	No	No	3
+Water Monkiki	Monkiki	Water	3	Defender	11 - Defense Down	80%	2	No	31 - Thirst (10%)	80%	1	No	No	No	4
+Water Mushi	Mushi	Water	2	Balanced	34 - Taunt	40%	1	No	111 - Elemental Predator (20% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	6
+Water Nezha	Nezha	Water	4	Balanced	12 - Attack Down	70%	2	No	27 - Blind	70%	2	No	No	No	4
+Water Nightmare	Nightmare	Water	5	Defender	26 - Seal	100%	3	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Water Odin	Odin	Water	5	Balanced	21 - Stun	100%	1	No	21 - Stun	70%	1	No	No	No	4
+Water Onmyoji	Onmyoji	Water	5	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Water Otari	Otari	Water	2	Balanced	41 - Sap (1 type)	60%	2	No	12 - Attack Down	80%	1	No	No	No	4
+Water Penpen	Penpen	Water	2	Defender	12 - Attack Down	80%	1	No	27 - Blind	60%	2	No	No	No	4
+Water Persephone	Persephone	Water	5	Balanced	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	24 - Petrify	80%	1	No	No	No	1
+Water Phibian	Phibian	Water	3	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	21 - Stun	70%	1	No	No	No	4
+Water Pixie	Pixie	Water	4	Recovery	42 - Sap (2 types)	70%	1	No	37 - Dominance Buff (Reduce Enemy SP Proportional to Damage Dealt)	100%	2	No	Yes	No	5
+Water Poseidon	Poseidon	Water	5	Attacker	71 - Morale Boost (Ally SP by 10%)	100%	1	No	101 - Predator (Dmg +40%)	100%	1	No	No	No	3
+Water Radis	Radis	Water	3	Tank	21 - Stun	40%	2	No	21 - Stun	80%	1	No	No	No	4
+Water Sanzang	Sanzang	Water	5	Defender	52 - Adrenaline (Own HP by 30%)	100%	1	No	42 - Sap (2 types)	70%	2	No	No	No	4
+Water Seastar	Seastar	Water	3	Attacker	42 - Sap (2 types)	40%	1	No	41 - Sap (1 type)	60%	2	No	No	No	3
+Water Seedler	Seedler	Water	3	Balanced	11 - Defense Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Water Shellie	Shellie	Water	3	Attacker	11 - Defense Down	100%	2	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	5
+Water Shinobi	Shinobi	Water	5	Attacker	116 - Elemental Edge	100%	1	No	96 - SP Siphon (50% SP Leech)	100%	1	No	No	Yes	6
+Water Shiva	Shiva	Water	5	Tank	33 - Thirst (30%)	80%	2	No	42 - Sap (2 types)	80%	2	No	No	No	3
+Water Siegfried	Siegfried	Water	5	Attacker	51 - Adrenaline (Own HP by 20%)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	No	4
+Water Siren	Siren	Water	3	Recovery	51 - Adrenaline (Own HP by 20%)	100%	1	No	92 - Vigor (Restore Ally HP)	100%	2	No	Yes	No	3
+Water Snowee	Snowee	Water	3	Tank	34 - Taunt	80%	1	No	42 - Sap (2 types)	60%	1	No	No	No	4
+Water Sparkitt	Sparkitt	Water	4	Attacker	27 - Blind	70%	2	No	124 - Leverage (HP)	100%	1	Yes	No	No	3
+Water Squirrus	Squirrus	Water	2	Defender	15 - Recovery Down (HP)	60%	1	No	41 - Sap (1 type)	40%	2	No	No	No	4
+Water Succubus	Succubus	Water	4	Tank	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	12 - Attack Down	60%	2	No	No	No	4
+Water Sun Wukong	Sun Wukong	Water	5	Balanced	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	No	No	3
+Water Sura	Sura	Water	4	Tank	21 - Stun	100%	2	Yes	101 - Predator (Dmg +40%)	100%	1	No	No	Yes	6
+Water Thor	Thor	Water	4	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	100 - Predator (Dmg +30%)	100%	1	No	No	No	3
+Water Tigar	Tigar	Water	4	Defender	34 - Taunt	70%	1	No	11 - Defense Down	70%	2	No	No	No	4
+Water Valkyrie	Valkyrie	Water	5	Attacker	101 - Predator (Dmg +40%)	100%	1	No	11 - Defense Down	100%	2	No	No	No	6
+Water Vampire	Vampire	Water	4	Attacker	100 - Predator (Dmg +30%)	100%	1	No	23 - Sleep	80%	1	No	No	No	6
+Water Verde	Verde	Water	4	Balanced	24 - Petrify	100%	1	No	26 - Seal	70%	2	No	No	No	4
+Water Victoria	Victoria	Water	4	Attacker	11 - Defense Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Water Wendigo	Wendigo	Water	3	Defender	51 - Adrenaline (Own HP by 20%)	100%	1	No	34 - Taunt	50%	2	No	No	No	4
+Water Wildfang	Wildfang	Water	4	Tank	21 - Stun	60%	1	No	24 - Petrify	60%	1	No	No	No	4
+Water Yaksha	Yaksha	Water	4	Attacker	102 - Crit Rate +20%	100%	1	No	102 - Crit Rate +20%	100%	1	No	No	No	3
+Water Yeti	Yeti	Water	3	Defender	12 - Attack Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Water Yuki	Yuki	Water	4	Tank	42 - Sap (2 types)	60%	1	No	42 - Sap (2 types)	60%	2	No	No	No	4
+Wood Anu	Anu	Wood	4	Attacker	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	Yes	No	No	3
+Wood Artemis	Artemis	Wood	5	Attacker	58 - HP Siphon (Restore Allies HP in Proportion to Damage Dealt)	100%	1	No	57 - HP Siphon (Greatly Restore Allies HP in Proportion to Damage Dealt)	100%	1	No	No	No	3
+Wood Arthur	Arthur	Wood	5	Attacker	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	21 - Stun	60%	2	No	No	No	6
+Wood Balrona	Balrona	Wood	5	Defender	75 - Morale Boost (Own SP by 50%)	100%	1	No	26 - Seal	60%	2	No	No	No	4
+Wood Banshee	Banshee	Wood	4	Attacker	72 - Morale Boost (Own SP by 20%)	100%	1	No	11 - Defense Down	60%	2	No	No	No	6
+Wood Beth	Beth	Wood	3	Tank	112 - Elemental Predator (30% Attack Bonus Attacking Specific Element)	100%	1	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	3
+Wood Birdie	Birdie	Wood	2	Tank	41 - Sap (1 type)	100%	1	No	21 - Stun	60%	1	No	No	No	4
+Wood Boltwing	Boltwing	Wood	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	56 - HP Siphon (Greatly Proportional to Damage Dealt)	100%	1	No	No	No	3
+Wood Candling	Candling	Wood	3	Balanced	114 - Elemental Predator (50% Crit Dmg Bonus Attacking Specific Element)	100%	1	Yes	41 - Sap (1 type)	60%	2	No	No	No	3
+Wood Canna	Canna	Wood	4	Balanced	12 - Attack Down	70%	1	No	124 - Leverage (HP)	100%	1	No	No	No	3
+Wood Cocomaru	Cocomaru	Wood	3	Attacker	21 - Stun	70%	1	No	41 - Sap (1 type)	70%	2	No	No	No	6
+Wood Cotteen	Cotteen	Wood	2	Recovery	34 - Taunt	40%	1	No	151 - Purification	100%	1	No	Yes	No	5
+Wood Crowhook	Crowhook	Wood	3	Attacker	115 - Elemental Predator (20% CR Bonus Attacking Specific Element)	100%	1	No	11 - Defense Down	60%	2	No	No	No	6
+Wood Cupid	Cupid	Wood	4	Recovery	142 - Soul Boon: Blue	100%	1	No	133 - Shield (Based on Recovery)	100%	2	No	Yes	No	5
+Wood Cura	Cura	Wood	4	Tank	51 - Adrenaline (Own HP by 20%)	100%	1	No	83 - Resilience (Recover SP Based on Damage Received)	100%	2	No	Yes	No	5
+Wood D'Artagnan	D'Artagnan	Wood	4	Balanced	15 - Recovery Down (HP)	80%	2	No	21 - Stun	100%	1	No	No	Yes	4
+Wood Fennec	Fennec	Wood	3	Attacker	108 - Elemental Hunter (Crit Damage +50% When Attacking Specific Element)	100%	1	Yes	12 - Attack Down	80%	2	Yes	No	No	6
+Wood Gargor	Gargor	Wood	2	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	24 - Petrify	80%	2	No	No	No	4
+Wood Garuda	Garuda	Wood	5	Balanced	51 - Adrenaline (Own HP by 20%)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	No	3
+Wood Gatito	Gatito	Wood	3	Attacker	11 - Defense Down	100%	2	No	36 - Fatigue (SP Recovery)	100%	3	No	No	Yes	4
+Wood Grabag	Grabag	Wood	3	Recovery	41 - Sap (1 type)	70%	1	No	14 - Attack Up	100%	2	No	Yes	No	4
+Wood Hana	Hana	Wood	4	Recovery	12 - Attack Down	60%	1	No	13 - Defense Up	100%	3	No	Yes	No	4
+Wood Hunter	Hunter	Wood	3	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	43 - Sap (3 types)	50%	1	No	No	Yes	4
+Wood Incubus	Incubus	Wood	4	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	3
+Wood Indra	Indra	Wood	5	Balanced	21 - Stun	100%	1	No	33 - Thirst (30%)	80%	2	No	No	No	4
+Wood Jeanne	Jeanne	Wood	4	Attacker	102 - Crit Rate +20%	100%	1	No	102 - Crit Rate +20%	100%	1	No	No	No	3
+Wood Jellai	Jellai	Wood	3	Balanced	12 - Attack Down	60%	1	No	15 - Recovery Down (HP)	60%	2	No	No	No	4
+Wood Jinn	Jinn	Wood	4	Tank	12 - Attack Down	80%	1	No	42 - Sap (2 types)	60%	2	No	No	No	4
+Wood Kiki	Kiki	Wood	3	Attacker	24 - Petrify	100%	1	Yes	106 - Hunter (Crit Dmg +30%)	100%	1	Yes	No	No	6
+Wood Latt	Latt	Wood	2	Balanced	41 - Sap (1 type)	40%	1	No	36 - Fatigue (SP Recovery)	60%	2	No	No	No	4
+Wood Leo	Leo	Wood	4	Defender	11 - Defense Down	60%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Wood Loki	Loki	Wood	4	Defender	11 - Defense Down	70%	2	No	23 - Sleep	70%	1	No	No	No	4
+Wood Lucy	Lucy	Wood	4	Balanced	41 - Sap (1 type)	90%	2	No	24 - Petrify	80%	1	No	No	No	4
+Wood Mammont	Mammont	Wood	4	Defender	63 - Adrenaline (Ally HP by 10% of Ally's HP)	100%	1	No	11 - Defense Down	60%	2	No	No	No	4
+Wood Mandragora	Mandragora	Wood	3	Defender	41 - Sap (1 type)	60%	1	No	23 - Sleep	40%	1	No	No	No	4
+Wood Medusa	Medusa	Wood	3	Defender	41 - Sap (1 type)	60%	3	No	27 - Blind	60%	1	No	No	No	4
+Wood Mera	Mera	Wood	4	Tank	36 - Fatigue (SP Recovery)	80%	3	No	33 - Thirst (30%)	80%	2	No	No	No	4
+Wood Miho	Miho	Wood	3	Attacker	11 - Defense Down	60%	2	No	21 - Stun	60%	1	No	No	No	4
+Wood Minicat	Minicat	Wood	3	Recovery	15 - Recovery Down (HP)	60%	1	No	14 - Attack Up	100%	2	No	Yes	No	5
+Wood Mino	Mino	Wood	2	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	Yes	107 - Elemental Hunter (Crit Damage +100% When Attacking Specific Element)	100%	1	Yes	No	Yes	3
+Wood Misha	Misha	Wood	3	Defender	34 - Taunt	80%	1	No	27 - Blind	80%	2	No	No	No	4
+Wood Mona	Mona	Wood	3	Defender	51 - Adrenaline (Own HP by 20%)	100%	1	No	34 - Taunt	80%	1	No	No	No	4
+Wood Monkiki	Monkiki	Wood	3	Balanced	15 - Recovery Down (HP)	60%	1	No	21 - Stun	100%	1	No	No	No	4
+Wood Mushi	Mushi	Wood	2	Attacker	77 - Morale Boost (Own SP by 100%)	100%	1	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	No	No	Yes	3
+Wood Nezha	Nezha	Wood	4	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	26 - Seal	60%	1	No	No	No	6
+Wood Nightmare	Nightmare	Wood	5	Defender	73 - Morale Boost (Own SP by 30%)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Wood Odin	Odin	Wood	5	Attacker	55 - HP Siphon (Proportional to Damage Dealt)	100%	1	No	11 - Defense Down	80%	2	No	No	No	3
+Wood Onmyoji	Onmyoji	Wood	5	Defender	26 - Seal	100%	2	No	24 - Petrify	80%	1	No	No	No	4
+Wood Otari	Otari	Wood	2	Defender	21 - Stun	60%	1	No	21 - Stun	80%	1	No	No	No	4
+Wood Penpen	Penpen	Wood	2	Tank	36 - Fatigue (SP Recovery)	60%	2	No	15 - Recovery Down (HP)	80%	1	No	No	No	4
+Wood Persephone	Persephone	Wood	5	Balanced	42 - Sap (2 types)	100%	1	No	12 - Attack Down	80%	2	No	No	No	4
+Wood Phibian	Phibian	Wood	3	Balanced	11 - Defense Down	50%	2	No	11 - Defense Down	70%	2	No	No	No	4
+Wood Pinolo	Pinolo	Wood	3	Attacker	124 - Leverage (HP)	100%	1	No	124 - Leverage (HP)	100%	1	No	No	Yes	3
+Wood Pixie	Pixie	Wood	4	Recovery	23 - Sleep	70%	2	No	92 - Vigor (Restore Ally HP)	100%	2	No	Yes	No	5
+Wood Poseidon	Poseidon	Wood	5	Defender	34 - Taunt	80%	2	No	21 - Stun	80%	1	No	No	No	4
+Wood Rabbitle	Rabbitle	Wood	3	Defender	12 - Attack Down	70%	1	No	59 - Adrenaline (Own HP by 25%)	100%	1	No	No	Yes	4
+Wood Radis	Radis	Wood	3	Defender	12 - Attack Down	30%	3	No	12 - Attack Down	70%	1	No	No	No	4
+Wood Rudolph	Rudolph	Wood	4	Attacker	75 - Morale Boost (Own SP by 50%)	100%	1	No	99 - Predator (Dmg +20%)	100%	1	No	No	No	3
+Wood Sanzang	Sanzang	Wood	5	Tank	12 - Attack Down	90%	2	No	12 - Attack Down	60%	2	No	No	No	4
+Wood Seastar	Seastar	Wood	3	Balanced	31 - Thirst (10%)	60%	1	No	11 - Defense Down	60%	2	No	No	No	4
+Wood Seedler	Seedler	Wood	3	Tank	42 - Sap (2 types)	60%	1	No	42 - Sap (2 types)	40%	2	No	No	No	4
+Wood Shellie	Shellie	Wood	3	Defender	41 - Sap (1 type)	100%	2	No	113 - Elemental Predator (100% Attack Bonus Attacking Specific Element)	100%	1	No	No	Yes	5
+Wood Shinobi	Shinobi	Wood	5	Tank	94 - SP Siphon (30% SP Leech)	100%	1	No	21 - Stun	100%	2	No	No	Yes	3
+Wood Shiva	Shiva	Wood	5	Attacker	101 - Predator (Dmg +40%)	100%	1	No	26 - Seal	60%	2	No	No	No	4
+Wood Siegfried	Siegfried	Wood	5	Tank	11 - Defense Down	80%	3	No	21 - Stun	80%	1	No	No	No	6
+Wood Siren	Siren	Wood	3	Recovery	141 - Soul Boon: Red	100%	1	No	17 - Recovery Up (HP)	100%	2	No	Yes	No	4
+Wood Sparkitt	Sparkitt	Wood	4	Balanced	116 - Elemental Edge	100%	1	No	12 - Attack Down	60%	2	No	No	No	6
+Wood Squirrus	Squirrus	Wood	2	Attacker	11 - Defense Down	60%	2	No	11 - Defense Down	40%	2	No	No	No	4
+Wood Succubus	Succubus	Wood	4	Balanced	23 - Sleep	60%	2	No	152 - Buff Breaker	100%	1	No	No	No	4
+Wood Sun Wukong	Sun Wukong	Wood	5	Attacker	11 - Defense Down	70%	3	No	11 - Defense Down	70%	2	No	No	No	4
+Wood Sura	Sura	Wood	4	Defender	26 - Seal	70%	2	No	41 - Sap (1 type)	80%	2	No	No	Yes	4
+Wood Thor	Thor	Wood	4	Balanced	124 - Leverage (HP)	100%	1	Yes	27 - Blind	100%	2	Yes	No	No	3
+Wood Tigar	Tigar	Wood	4	Attacker	100 - Predator (Dmg +30%)	100%	1	No	21 - Stun	60%	1	No	No	No	6
+Wood Valkyrie	Valkyrie	Wood	5	Balanced	51 - Adrenaline (Own HP by 20%)	100%	1	No	62 - Adrenaline (Ally HP by 10% of Own HP)	100%	1	No	No	No	1
+Wood Vampire	Vampire	Wood	4	Balanced	72 - Morale Boost (Own SP by 20%)	100%	1	No	42 - Sap (2 types)	80%	1	No	No	No	3
+Wood Verde	Verde	Wood	4	Tank	12 - Attack Down	60%	2	No	11 - Defense Down	60%	2	No	No	No	4
+Wood Victoria	Victoria	Wood	4	Tank	21 - Stun	70%	1	No	21 - Stun	70%	1	No	No	No	4
+Wood Wendigo	Wendigo	Wood	3	Balanced	72 - Morale Boost (Own SP by 20%)	100%	1	No	21 - Stun	60%	1	No	No	No	6
+Wood Wildfang	Wildfang	Wood	4	Defender	24 - Petrify	100%	1	No	23 - Sleep	100%	2	Yes	No	No	4
+Wood Yaksha	Yaksha	Wood	4	Attacker	23 - Sleep	100%	2	Yes	104 - Hunter (Crit Dmg +50%)	100%	1	No	No	No	6
+Wood Yeti	Yeti	Wood	3	Tank	34 - Taunt	80%	1	No	42 - Sap (2 types)	60%	1	No	No	No	4
+Wood Yuki	Yuki	Wood	4	Balanced	15 - Recovery Down (HP)	60%	1	No	15 - Recovery Down (HP)	60%	3	No	No	No	4
